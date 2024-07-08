@@ -13,8 +13,8 @@
 
 
 - 🌱 I’m currently learning **MERN**
-- 🧑‍🎓 I'm an Undergraduate at **SLIIT**
-- 📫 How to reach me **dumidukavishan8@gmail.com**
+- 🎓 I'm an Undergraduate at **SLIIT**
+- 📫 How to reach me **dumidu805@gmail.com**
 
 <p align="center">
   <a href="https://github.com/Dumidu-Kavishan">
